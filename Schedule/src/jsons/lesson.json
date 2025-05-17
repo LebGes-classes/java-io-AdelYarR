@@ -1,0 +1,50 @@
+[
+  {
+    "week_day": "Monday",
+    "id_teacher": "1",
+    "id": "1",
+    "id_subject": "1",
+    "id_group": "3",
+    "lesson_number": "1"
+  },
+  {
+    "week_day": "Monday",
+    "id_teacher": "2",
+    "id": "1",
+    "id_subject": "4",
+    "id_group": "4",
+    "lesson_number": "2"
+  },
+  {
+    "week_day": "Tuesday",
+    "id_teacher": "2",
+    "id": "2",
+    "id_subject": "3",
+    "id_group": "1",
+    "lesson_number": "2"
+  },
+  {
+    "week_day": "Tuesday",
+    "id_teacher": "1",
+    "id": "2",
+    "id_subject": "1",
+    "id_group": "5",
+    "lesson_number": "4"
+  },
+  {
+    "week_day": "Monday",
+    "id_teacher": "1",
+    "id": "1",
+    "id_subject": "2",
+    "id_group": "1",
+    "lesson_number": "3"
+  },
+  {
+    "week_day": "Monday",
+    "id_teacher": "1",
+    "id": "1",
+    "id_subject": "1",
+    "id_group": "2",
+    "lesson_number": "2"
+  }
+]
